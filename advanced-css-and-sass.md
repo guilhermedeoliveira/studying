@@ -4,10 +4,10 @@
 
 It is just a welcome section.
 
-## Natours Project — Setup and First Steps (Part 1)
+## Section 02 - Natours Project — Setup and First Steps Part 1
 
-> If you have a multiline heading with different css. You should use only one heading element and render a span inside it
+If you have a multiline heading with different css. You should use only one heading element and render a span inside it.
 
-> You can use the css property clip-path to render complex geometric forms
+You can use the css property clip-path to render complex geometric forms.
 
-## Natours Project — Setup and First Steps (Part 2)
+## Section 03 - Natours Project — Setup and First Steps Part 2
